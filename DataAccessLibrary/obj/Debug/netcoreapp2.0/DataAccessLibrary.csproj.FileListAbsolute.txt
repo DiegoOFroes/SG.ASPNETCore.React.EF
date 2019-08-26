@@ -1,0 +1,11 @@
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\bin\Debug\netcoreapp2.0\DataAccessLibrary.deps.json
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\bin\Debug\netcoreapp2.0\DataAccessLibrary.runtimeconfig.json
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\bin\Debug\netcoreapp2.0\DataAccessLibrary.runtimeconfig.dev.json
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\bin\Debug\netcoreapp2.0\DataAccessLibrary.dll
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\bin\Debug\netcoreapp2.0\DataAccessLibrary.pdb
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\obj\Debug\netcoreapp2.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\obj\Debug\netcoreapp2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\obj\Debug\netcoreapp2.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\obj\Debug\netcoreapp2.0\DataAccessLibrary.dll
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\obj\Debug\netcoreapp2.0\DataAccessLibrary.pdb
+C:\Users\diego\source\repos\MarvelOrDCStore\DataAccessLibrary\obj\Debug\netcoreapp2.0\DataAccessLibrary.csprojAssemblyReference.cache

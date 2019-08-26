@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\bin\Debug\netcoreapp2.0\BusinessLibrary.deps.json
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\bin\Debug\netcoreapp2.0\BusinessLibrary.dll
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\bin\Debug\netcoreapp2.0\BusinessLibrary.pdb
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\bin\Debug\netcoreapp2.0\DataAccessLibrary.dll
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\bin\Debug\netcoreapp2.0\DataAccessLibrary.pdb
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.AssemblyInfo.cs
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.csproj.CopyComplete
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.dll
+C:\Users\diego\source\repos\MarvelOrDCStore\BusinessLibrary\obj\Debug\netcoreapp2.0\BusinessLibrary.pdb
